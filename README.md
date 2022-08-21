@@ -3,6 +3,6 @@ My first platformer game. Also I loved develop game with this game. Being an ast
 
 ## Game :
 
-![](images/spacegame.gif)
+![](images/space.gif)
 
 
